@@ -18,3 +18,21 @@ A real world problem is the COVID-19 pandemic.
 https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard
 Using these datasets, I would like to predict the effectivity of a vaccine for a certain person given their demographic and health information. I would use supervised learning because I already have a labeled dataset and my goal is to predict the outcome. I would probably use regression.
 
+**Day 7:**
+What are “Tensors” and what are they used for in Machine Learning? 
+A tensor is a generalization of vectors and matrices and is understood as a multidimensional array. It’s primarily used for neural networks in ML. For example, a tensor can represent an image with three fields, width, height, and depth (color).
+What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+I noticed that matplotlib was able to generate some really nice figures describing the data. I also noticed that some of the models took a very long time to run. This is probably because there is a lot of data and computations involved with the models. I like how the tutorial went step by step and had an option to see the solution if we are stuck on it.
+
+**Day 8:**
+I used an already existing notebook to run a Word2Vec model. I went through the tutorial and decided to focus on the Word2Vec part of the tutorial. I played around with the number of epochs that the model runs for. It was originally 3, and I decided to run 20 which took a long time. It didn't seem to improve the model much, so I went back to having 7 epochs. However, it seems like there wasn't any improvement, and running only 1 epoch was better.
+
+**Day 9:** I worked on the Kaggle Document with the MNIST dataset and made some edits so that it would run.
+
+**Day 10:**
+How do you think Machine Learning or AI concepts were utilized in the design of this game?
+The game shows that machine learning models are biased based on the data that it is trained on, even if it is unintentional. 
+Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+I’ve heard that police sometimes use machine learning models to determine the probability that a person will commit a crime. This is biased mostly because of skin color, but also other factors such as neighborhood. I actually don’t think this is a good idea because every individual is different, and a machine learning model should not be used to evaluate a person. However, an idea to make this model more fair, inclusive, and equitable is to not use facial, skin color, and address information, and to only use information based on previous actions or crimes.
+
+
