@@ -35,7 +35,7 @@ The game shows that machine learning models are biased based on the data that it
 Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
 I’ve heard that police sometimes use machine learning models to determine the probability that a person will commit a crime. This is biased mostly because of skin color, but also other factors such as neighborhood. I actually don’t think this is a good idea because every individual is different, and a machine learning model should not be used to evaluate a person. However, an idea to make this model more fair, inclusive, and equitable is to not use facial, skin color, and address information, and to only use information based on previous actions or crimes.
 
-*Day 11*
+**Day 11**
 Succinctly list the differences between a Convolutional Neural Network and a
 Fully Connected Neural Network. Discuss layers and their role, and
 applications of each of the two types of architectures.
