@@ -44,3 +44,10 @@ Convolutional Neural Network: A convolutional neural network is more specialized
 
 Fully Connected Neural Network: In a fully connected neural network, each neuron has a weight and is connected to all neurons in the previous layer. It takes up a lot of memory and computational time, but because it is fully connected, no assumptions about the features of the data are made. It is also used for images, when convolutional neural networks do not work well.
 
+**Day 14**
+I worked on a tutorial to predict house prices using a CNN.
+
+**Day 15**
+A rectified linear activation function is that while it is not linear, it is simple and provides the same benefits as Sigmoid but with better performance. It is between 0 and 1 and differentiable. One use case is to map predicted values to probabilities.
+
+
