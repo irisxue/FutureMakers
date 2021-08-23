@@ -50,4 +50,6 @@ I worked on a tutorial to predict house prices using a CNN.
 **Day 15**
 A rectified linear activation function is that while it is not linear, it is simple and provides the same benefits as Sigmoid but with better performance. It is between 0 and 1 and differentiable. One use case is to map predicted values to probabilities.
 
+**Day 17**
+I went through the keras notebook activity to learn how to build an image classification model. I used the guide and modified the number of epochs to a lower number due to the long training time of the model. The performance ended up way worse than it was before.
 
