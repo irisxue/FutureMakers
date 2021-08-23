@@ -53,3 +53,5 @@ A rectified linear activation function is that while it is not linear, it is sim
 **Day 17**
 I went through the keras notebook activity to learn how to build an image classification model. I used the guide and modified the number of epochs to a lower number due to the long training time of the model. The performance ended up way worse than it was before.
 
+**Day 18**
+I followed the Hands on Tutorial and ran the code. I tried changing the loss to mean squared error and found out that the model was greatly improved.
