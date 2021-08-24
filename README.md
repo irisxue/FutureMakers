@@ -55,3 +55,8 @@ I went through the keras notebook activity to learn how to build an image classi
 
 **Day 18**
 I followed the Hands on Tutorial and ran the code. I tried changing the loss to mean squared error and found out that the model was greatly improved.
+
+**Day 21**
+Worked on the two interactive tutorials with upsampling & downsampling and autoencoders
+
+
